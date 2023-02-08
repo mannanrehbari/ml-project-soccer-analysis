@@ -1,6 +1,6 @@
 # ml-project-soccer-analysis
 
 #### team members
-- Felix Richder
+- Felix Richter
 - Sohyun Ahn
 - Abdul Mannan
