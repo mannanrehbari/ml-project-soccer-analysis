@@ -1,8 +1,9 @@
 # ml-project-soccer-analysis
 
 > Introduction  
+- This repository contains code for our  course project for CAP5610 Spring 2023. The dataset might change over time, so we have stored a snapshot in team's OneDrive. Our analysis is based on the saved data. 
 
-    This repository contains code for our  course project for CAP5610 Spring 2023. The dataset might change over time, so we have stored a snapshot in team's OneDrive. Our analysis is based on the saved data. 
+<br>
 
 > Team Members
 - Felix Richter
