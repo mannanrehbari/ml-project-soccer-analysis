@@ -25,7 +25,7 @@
 <br>
 
 > Project Data Source
-* [Eurpoean Soccer Database](kaggle.com/datasets/hugomathien/soccer)
+* [Eurpoean Soccer Database](https://kaggle.com/datasets/hugomathien/soccer)
 
 <br>
 
