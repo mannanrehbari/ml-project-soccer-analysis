@@ -4,7 +4,9 @@
 **/.DS_Store
 /.idea
 .ipynb_checkpoints/
+/data
 
 # ignore large files
 *.zip
 *.sqlite
+*.csv
