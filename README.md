@@ -20,7 +20,8 @@
 - Create a feature branch on it.
 - Once ready to push : git push origin \<*featurebranch*\>
 - Create a PR into main
-- Kindly meet Monday, Wednesday after class  
+- Kindly meet Monday, Wednesday after class
+- Meeting sundays too
 
 <br>
 
